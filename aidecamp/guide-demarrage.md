@@ -67,7 +67,3 @@ hameau). Tant qu'elles ne sont pas toutes remplies, rien ne se passe, mais un pa
 Dès que les 5 sont cochées, un message t'annonce le passage au vrai jeu. À partir de là,
 tu géreras une vraie population (naissances, métiers, maladies, upkeep nourriture) plutôt
 que les 5 travailleurs génériques du prologue.
-
----
-*Document rédigé le 2026-08-13, à partir de l'état réel du jeu à cette date. À mettre à jour
-si des mécaniques changent.*
