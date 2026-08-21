@@ -1,8 +1,11 @@
-# Guide de démarrage ; du camp de survie au hameau
+# Guide de démarrage camp
 
 Ce guide couvre tout le prologue de BHK Web : de la pose de ton premier camp jusqu'au moment
 où tu bascules vers le hameau (le vrai jeu). Rien ici n'est théorique, tout correspond à ce qui
 existe réellement dans le jeu aujourd'hui.
+
+Une fois le hameau lancé, tout ce qui concerne la population (métiers, nourriture,
+commerçant, maladies...) est couvert dans le [guide de démarrage hameau](guide-demarrage-hameau.md).
 
 ## 1. Poser un camp
 
@@ -42,10 +45,15 @@ Une fois une zone prête, construis une **ferme** (sur une zone nourriture défr
 - **Récolter** : une fois la culture arrivée à maturité, récolte-la. C'est cette étape,
   et seulement celle-là, qui compte comme "une vraie récolte" pour la suite (voir plus bas).
 
-**Piège classique** : les graines que tu obtiens automatiquement en coupant du bois
-("graines" génériques) ne sont PAS les graines de culture. Les vraies graines plantables
-(blé/maïs/tomate/tournesol) viennent uniquement du défrichage de buissons sur une zone
-nourriture.
+**Piège classique n°1** : les graines que tu obtiens automatiquement en coupant du bois
+("graines" génériques, pour les arbres) ne sont PAS les graines de culture. Les vraies graines
+plantables (blé/maïs/tomate/tournesol) viennent uniquement du défrichage de buissons sur une
+zone nourriture.
+
+**Piège classique n°2** : une récolte semée puis ramassée reste un simple tas de ressources
+dans le stock brut de ton pays tant que tu ne l'as pas déposée dans une épicerie. Ça n'a aucun
+impact sur cette étape du prologue, mais retiens-le : c'est le premier maillon du système de
+nourriture du hameau, détaillé dans le guide suivant.
 
 ## 6. Palissade et compost
 
@@ -66,4 +74,5 @@ hameau). Tant qu'elles ne sont pas toutes remplies, rien ne se passe, mais un pa
 
 Dès que les 5 sont cochées, un message t'annonce le passage au vrai jeu. À partir de là,
 tu géreras une vraie population (naissances, métiers, maladies, upkeep nourriture) plutôt
-que les 5 travailleurs génériques du prologue.
+que les 5 travailleurs génériques du prologue — voir le
+[guide de démarrage hameau](guide-demarrage-hameau.md) pour la suite.
