@@ -15,7 +15,7 @@ rythme, dès qu'il reste de la place). Construis des maisons dès que tu peux si
 population.
 
 Un nouvel habitant arrive **sans métier assigné**. Va sur la page TRAVAILLEURS pour lui en
-donner un — attention, **un métier assigné est définitif**, il ne peut plus être changé ensuite
+donner un ; attention, **un métier assigné est définitif**, il ne peut plus être changé ensuite
 pour cet habitant.
 
 ## 2. Les métiers
@@ -28,7 +28,7 @@ pour cet habitant.
 | **Chasseur** | Chasse la viande sur les zones découvertes |
 | **Éboueur** | Nettoie les déchets produits par la population (voir §4) |
 | **Scientifique** | Travaille au laboratoire (craft) |
-| **Commerçant** | Débloque l'upkeep nourriture ; voir §3, c'est le métier le plus mal compris du jeu |
+| **Commerçant** | Débloque le ravitaillement nourriture ; voir §3, c'est le métier le plus mal compris du jeu |
 | **Réserviste** | Filet de secours : remplace automatiquement, à rendement réduit, n'importe quel titulaire malade du camp le temps de sa guérison |
 
 ## 3. Nourrir sa population : le piège n°1 du jeu
@@ -40,8 +40,8 @@ conditions ne sont pas réunies :**
    être **déposé dans l'épicerie** (page INVENTAIRE, bouton dépôt ou "REMPLIR" pour un
    ravitaillement automatique jusqu'à un seuil que tu choisis). Seul le stock **dans**
    l'épicerie compte pour nourrir les gens, jamais le stock brut du pays.
-2. **Au moins un habitant vivant avec le métier Commerçant.** Sans lui, l'upkeep nourriture est
-   entièrement coupé, même avec une épicerie pleine à craquer. C'est l'erreur la plus fréquente
+2. **Au moins un habitant vivant avec le métier Commerçant.** Sans lui, le ravitaillement
+   nourriture est entièrement coupé, même avec une épicerie pleine à craquer. C'est l'erreur la plus fréquente
    en sortie de prologue : le joueur construit son épicerie, la remplit, et personne ne mange
    quand même faute de commerçant assigné.
 
@@ -52,11 +52,11 @@ Une fois ces deux conditions réunies, chaque habitant est nourri **une fois par
 au-delà, construis-en une deuxième.
 
 Depuis peu, une alerte automatique apparaît directement sur la page de ton pays dès que ton
-épicerie est terminée mais qu'aucun commerçant n'est assigné — plus besoin de deviner pourquoi
+épicerie est terminée mais qu'aucun commerçant n'est assigné ; plus besoin de deviner pourquoi
 personne ne mange.
 
 Le commerçant a aussi un revenu passif (jusqu'à 3 commerçants payés par camp), indépendant du
-succès ou non de l'upkeep nourriture ce jour-là.
+succès ou non du ravitaillement nourriture ce jour-là.
 
 ## 4. Déchets et éboueur
 
@@ -86,7 +86,7 @@ Deux mécanismes distincts affectent la production d'un habitant, cumulables :
   durée fixe une fois déclaré
 
 Un habitant malade ou gelé par la faim est automatiquement remplacé par un **réserviste**
-disponible du camp (s'il y en a un), à rendement réduit, le temps de sa convalescence — voir
+disponible du camp (s'il y en a un), à rendement réduit, le temps de sa convalescence ; voir
 §2. Sans réserviste disponible, la production correspondante s'arrête simplement jusqu'à
 guérison ou réassignation.
 

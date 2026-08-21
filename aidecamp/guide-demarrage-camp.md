@@ -73,6 +73,6 @@ hameau). Tant qu'elles ne sont pas toutes remplies, rien ne se passe, mais un pa
 5. **Une vraie récolte effectuée** (semée puis moissonnée, pas juste des graines en stock)
 
 Dès que les 5 sont cochées, un message t'annonce le passage au vrai jeu. À partir de là,
-tu géreras une vraie population (naissances, métiers, maladies, upkeep nourriture) plutôt
-que les 5 travailleurs génériques du prologue — voir le
+tu géreras une vraie population (naissances, métiers, maladies, ravitaillement nourriture)
+plutôt que les 5 travailleurs génériques du prologue ; voir le
 [guide de démarrage hameau](guide-demarrage-hameau.md) pour la suite.
