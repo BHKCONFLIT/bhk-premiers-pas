@@ -2,17 +2,25 @@
 
 Ce guide prend le relais du [guide de démarrage camp](guide-demarrage-camp.md) au moment où ton
 camp bascule vers le hameau : tu gères désormais une vraie population (arrivées, métiers,
-nourriture, maladies) plutôt que les 5 travailleurs génériques du prologue. C'est le système le
+nourriture, maladies) plutôt que les cinq fondateurs du prologue. C'est le système le
 plus mal compris du jeu aujourd'hui, en particulier la nourriture, donc lis-le en entier avant
 de foncer.
 
-## 1. La population : maisons, arrivées, naissances
+## 1. La population : logements, arrivées, familles
 
-Ta capacité d'accueil dépend uniquement des maisons construites : **3 places par maison en
-bois**, **5 places par maison en pierre**. Tant qu'il reste de la place libre, de nouveaux
-habitants arrivent tout seuls avec le temps (et des naissances peuvent s'ajouter, au même
-rythme, dès qu'il reste de la place). Construis des maisons dès que tu peux si tu veux monter en
-population.
+Ta capacité d'accueil dépend des logements construits : **1 place par tente**, **3 places par
+maison en bois**, **5 places par maison en pierre**. Tant qu'il reste de la place, de nouveaux
+habitants arrivent tout seuls avec le temps.
+
+Les naissances, elles, ne marchent PAS comme ça. Un enfant naît d'un **couple qui partage un
+toit**, et une maison n'accueille jamais deux célibataires du même sexe : il faut donc que tu
+construises pour que des couples se forment. Une place gardée pour un enfant à naître n'est
+d'ailleurs jamais offerte à un inconnu qui passe.
+
+Et si tu ne loges pas quelqu'un, il ne reste pas à t'attendre : **il quitte le pays** et arrive
+chez le joueur voisin le plus proche. Tout ça est détaillé dans le
+[guide des familles](../famille/guide-familles.md), à lire avant de te lancer dans la
+construction.
 
 Un nouvel habitant arrive **sans métier assigné**. Va sur la page TRAVAILLEURS pour lui en
 donner un ; attention, **un métier assigné est définitif**, il ne peut plus être changé ensuite
